@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ATLAN-Search-The-IPL/static/css/main.f93d6850.chunk.css",
+    "main.js": "/ATLAN-Search-The-IPL/static/js/main.1dafa71f.chunk.js",
+    "main.js.map": "/ATLAN-Search-The-IPL/static/js/main.1dafa71f.chunk.js.map",
+    "runtime-main.js": "/ATLAN-Search-The-IPL/static/js/runtime-main.f6cd2c12.js",
+    "runtime-main.js.map": "/ATLAN-Search-The-IPL/static/js/runtime-main.f6cd2c12.js.map",
+    "static/css/2.e3ca39a3.chunk.css": "/ATLAN-Search-The-IPL/static/css/2.e3ca39a3.chunk.css",
+    "static/js/2.522a22e3.chunk.js": "/ATLAN-Search-The-IPL/static/js/2.522a22e3.chunk.js",
+    "static/js/2.522a22e3.chunk.js.map": "/ATLAN-Search-The-IPL/static/js/2.522a22e3.chunk.js.map",
+    "index.html": "/ATLAN-Search-The-IPL/index.html",
+    "static/css/2.e3ca39a3.chunk.css.map": "/ATLAN-Search-The-IPL/static/css/2.e3ca39a3.chunk.css.map",
+    "static/css/main.f93d6850.chunk.css.map": "/ATLAN-Search-The-IPL/static/css/main.f93d6850.chunk.css.map",
+    "static/js/2.522a22e3.chunk.js.LICENSE.txt": "/ATLAN-Search-The-IPL/static/js/2.522a22e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6cd2c12.js",
+    "static/css/2.e3ca39a3.chunk.css",
+    "static/js/2.522a22e3.chunk.js",
+    "static/css/main.f93d6850.chunk.css",
+    "static/js/main.1dafa71f.chunk.js"
+  ]
+}
