@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ATLAN-Search-The-IPL/static/css/main.f93d6850.chunk.css",
-    "main.js": "/ATLAN-Search-The-IPL/static/js/main.1dafa71f.chunk.js",
-    "main.js.map": "/ATLAN-Search-The-IPL/static/js/main.1dafa71f.chunk.js.map",
+    "main.js": "/ATLAN-Search-The-IPL/static/js/main.44bcb194.chunk.js",
+    "main.js.map": "/ATLAN-Search-The-IPL/static/js/main.44bcb194.chunk.js.map",
     "runtime-main.js": "/ATLAN-Search-The-IPL/static/js/runtime-main.f6cd2c12.js",
     "runtime-main.js.map": "/ATLAN-Search-The-IPL/static/js/runtime-main.f6cd2c12.js.map",
     "static/css/2.e3ca39a3.chunk.css": "/ATLAN-Search-The-IPL/static/css/2.e3ca39a3.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.e3ca39a3.chunk.css",
     "static/js/2.522a22e3.chunk.js",
     "static/css/main.f93d6850.chunk.css",
-    "static/js/main.1dafa71f.chunk.js"
+    "static/js/main.44bcb194.chunk.js"
   ]
 }
