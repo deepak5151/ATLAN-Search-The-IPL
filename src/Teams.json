@@ -1,0 +1,128 @@
+[
+  {
+    "team": "Rising Pune Supergiant",
+    "home_wins": 5,
+    "away_wins": 5,
+    "home_matches": 8,
+    "away_matches": 8,
+    "home_win_percentage": 62.5,
+    "away_win_percentage": 62.5
+  },
+  {
+    "team": "Mumbai Indians",
+    "home_wins": 58,
+    "away_wins": 51,
+    "home_matches": 101,
+    "away_matches": 86,
+    "home_win_percentage": 57.42574257,
+    "away_win_percentage": 59.30232558
+  },
+  {
+    "team": "Chennai Super Kings",
+    "home_wins": 51,
+    "away_wins": 49,
+    "home_matches": 89,
+    "away_matches": 75,
+    "home_win_percentage": 57.30337079,
+    "away_win_percentage": 65.33333333
+  },
+  {
+    "team": "Delhi Capitals",
+    "home_wins": 3,
+    "away_wins": 7,
+    "home_matches": 6,
+    "away_matches": 10,
+    "home_win_percentage": 50,
+    "away_win_percentage": 70
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "home_wins": 30,
+    "away_wins": 28,
+    "home_matches": 63,
+    "away_matches": 45,
+    "home_win_percentage": 47.61904762,
+    "away_win_percentage": 62.22222222
+  },
+  {
+    "team": "Rajasthan Royals",
+    "home_wins": 29,
+    "away_wins": 46,
+    "home_matches": 67,
+    "away_matches": 80,
+    "home_win_percentage": 43.28358209,
+    "away_win_percentage": 57.5
+  },
+  {
+    "team": "Deccan Chargers",
+    "home_wins": 18,
+    "away_wins": 11,
+    "home_matches": 43,
+    "away_matches": 32,
+    "home_win_percentage": 41.86046512,
+    "away_win_percentage": 34.375
+  },
+  {
+    "team": "Kings XI Punjab",
+    "home_wins": 38,
+    "away_wins": 44,
+    "home_matches": 91,
+    "away_matches": 85,
+    "home_win_percentage": 41.75824176,
+    "away_win_percentage": 51.76470588
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "home_wins": 35,
+    "away_wins": 49,
+    "home_matches": 85,
+    "away_matches": 95,
+    "home_win_percentage": 41.17647059,
+    "away_win_percentage": 51.57894737
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "home_wins": 34,
+    "away_wins": 58,
+    "home_matches": 83,
+    "away_matches": 95,
+    "home_win_percentage": 40.96385542,
+    "away_win_percentage": 61.05263158
+  },
+  {
+    "team": "Delhi Daredevils",
+    "home_wins": 25,
+    "away_wins": 42,
+    "home_matches": 72,
+    "away_matches": 89,
+    "home_win_percentage": 34.72222222,
+    "away_win_percentage": 47.19101124
+  },
+  {
+    "team": "Pune Warriors",
+    "home_wins": 6,
+    "away_wins": 6,
+    "home_matches": 20,
+    "away_matches": 26,
+    "home_win_percentage": 30,
+    "away_win_percentage": 23.07692308
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "home_wins": 2,
+    "away_wins": 4,
+    "home_matches": 7,
+    "away_matches": 7,
+    "home_win_percentage": 28.57142857,
+    "away_win_percentage": 57.14285714
+  },
+  {
+    "team": "Gujarat Lions",
+    "home_wins": 1,
+    "away_wins": 12,
+    "home_matches": 14,
+    "away_matches": 16,
+    "home_win_percentage": 7.142857143,
+    "away_win_percentage": 75
+  }
+]

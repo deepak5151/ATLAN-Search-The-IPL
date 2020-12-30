@@ -1,0 +1,95 @@
+*{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Atlan-header {
+  background-color: #282c34;
+  min-height:12vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  padding:10px;
+  padding-left:40px;
+  text-align: center;
+}
+.Atlan-header h2{
+  cursor: pointer;
+}
+.Atlan-body{
+  background-color: #3b414d;
+  min-height:88vh;
+  display: flow-root;
+  align-items: center;
+  color: white;
+  border:15px double rgba(255,255,255,0.3);
+}
+.Atlan-body-content {
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+.atlan-display-buttons{
+  margin-top:10px;
+  text-align: center;
+}
+a.nav-link{
+  display: initial;
+  border-radius: 12px;
+  background-color: white;
+  text-decoration: none;
+  border: none;
+  color:black;
+  padding: 7px;
+  font-family: monospace;
+  cursor:pointer;
+}
+a.nav-link:hover{
+  background-color:#282c34;
+  color:white;
+}
+a.nav-link:not(:last-child){
+  margin-right:15px;
+}
+.card-header, label{
+  color: black;
+}
+.atlan-display-players{
+  margin-top:30px;
+}
+.atlan-player{
+  border:3px solid white;
+  min-height:200px;
+  border-radius:20px;
+  padding:10px;
+}
+.atlan-player:hover{
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.atlan-display-teams{
+  margin-top:30px;
+}
+.atlan-teams{
+  border:3px solid white;
+  min-height:300px;
+  border-radius:20px;
+  padding:10px;
+}
+.atlan-teams:hover{
+  transform: scale(1.05);
+  cursor: pointer;
+}
+.atlan-venues{
+  border:3px solid white;
+  min-height:200px;
+  border-radius:20px;
+  padding:10px;
+  width: inherit;
+}
+.atlan-venues:hover{
+  transform: scale(1.05);
+  cursor: pointer;
+}
